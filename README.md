@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshot
 ![Screenshot_2020-08-21-07-18-22-481_com zeph flutter_ui_day_one]
 
-<img src="https://user-images.githubusercontent.com/11628897/90851929-d197ea80-e37e-11ea-8c98-6e1751fccd6d.jpg" width="100">
+<img src="https://user-images.githubusercontent.com/11628897/90851929-d197ea80-e37e-11ea-8c98-6e1751fccd6d.jpg" width="250">
 
