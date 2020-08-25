@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'pages.dart';
+import 'package:flutter_ui_day_one/ui_3.dart';
 
 void main() {
   runApp(MyApp());
@@ -24,7 +23,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Color(0xfff79631),
           ),
         ),
-        body: UI_2(),
+        body: UI_3(),
       ),
     );
   }
