@@ -16,3 +16,6 @@ UI per week creation
 
 ### Part 5
 <img src="https://user-images.githubusercontent.com/11628897/91528935-096bd880-e911-11ea-801b-2e6523b1ba77.jpg" width="250">
+
+### Part 6
+<img src="https://user-images.githubusercontent.com/11628897/91935015-6262b480-ecf5-11ea-8c9a-89caf621e66a.jpg">
